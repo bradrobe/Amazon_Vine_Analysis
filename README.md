@@ -21,7 +21,7 @@ Amazon Vine Group provides a service allowing manufactures and publishers to rec
 •	Vine reviews:
  ![image](https://github.com/bradrobe/Amazon_Vine_Analysis/blob/main/resources/images/percentage_of_vine_reviews.png)
 •	Non-vine 5-star reviews:
- ![image]()
+ ![image](https://github.com/bradrobe/Amazon_Vine_Analysis/blob/main/resources/images/percentage_non_vine_reveiws.png)
 
 ## Summary:
 
