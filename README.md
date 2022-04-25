@@ -1,1 +1,30 @@
-# Amazon_Vine_Analysis
+# Amazon Vine Analysis
+
+## Overview of Analysis:
+Amazon Vine Group provides a service allowing manufactures and publishers to receive reviews for their products.  Within this project there were 50 datasets to choose from AWS.  Our instructions were:
+1) Select one of the datasets.
+2) Extract data form the dataset, transform the data and load the transformed data to pgadmin.  allowing us to produce working data to display to the manufactures and publishers.
+3) Data will provide information if there is bias toward favorable reviews from vine members.
+
+## Results:
+### Total number of reviews:
+•	Vine reviews: 
+ 
+•	Non-vine Reviews:
+ 
+### Total number of 5-star reviews:
+•	Vine Reviews:
+ 
+•	Non-vine reviews:
+ 
+### Percentage of 5-star reviews:
+•	Vine reviews:
+ 
+•	Non-vine 5-star reviews:
+ 
+
+## Summary:
+
+The Vine program percentage for the 5-star reviews are at 42% and the Non-vine program for the 5-star reviews are at 50%.  Based off of these percentages I believe there is no bias toward favorable reviews from the Vine members within this dataset.
+
+
