@@ -9,19 +9,19 @@ Amazon Vine Group provides a service allowing manufactures and publishers to rec
 ## Results:
 ### Total number of reviews:
 •	Vine reviews: 
- 
+ ![image]()
 •	Non-vine Reviews:
- 
+ ![image]()
 ### Total number of 5-star reviews:
 •	Vine Reviews:
- 
+ ![image]()
 •	Non-vine reviews:
- 
+ ![image]()
 ### Percentage of 5-star reviews:
 •	Vine reviews:
- 
+ ![image]()
 •	Non-vine 5-star reviews:
- 
+ ![image]()
 
 ## Summary:
 
